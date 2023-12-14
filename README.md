@@ -4,7 +4,7 @@ This is a project for the course Introduction to Data Science at the University 
 
 # Data
 
-The data used in this project is from <a href=https://www.kaggle.com/datasets/kartik2112/fraud-detection>Credit Card Transactions Fraud Detection Dataset</a> by Kartik Shenoy on Kaggle. In case you want to run the notebooks in this repo, it is first recommended to <b>download the datasets from Kaggle</b> and add them to the /data folder, as we've previously had issues with laege file storage on GitHub. It's also noteworthy that this is a synthetic dataset, because real datasets regarding credit card fraud are either confidential or anonymized to protect the identities of card-holders.
+The data used in this project is from <a href=https://www.kaggle.com/datasets/kartik2112/fraud-detection>Credit Card Transactions Fraud Detection Dataset</a> by Kartik Shenoy on Kaggle. In case you want to run the notebooks in this repo, it is first recommended to <b>download the datasets from Kaggle</b> and add them to the /data folder, as we've previously had issues with large file storage on GitHub. It's also noteworthy that this is a synthetic dataset, because real datasets regarding credit card fraud are either confidential or anonymized to protect the identities of card-holders.
 
 # Usage
 
